@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Hello, GitHub!</h1>
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="ML">
     <table width="100%">
         <td align="left"><img src="image.png" alt="ntcd-Sparkle" width="200"/></td>
         <td align="right"><h3>Меня зовут ntcd_lol, я русский начинающий разработчик которому всего 13 лет.</h3></td>
