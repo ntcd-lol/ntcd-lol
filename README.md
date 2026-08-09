@@ -1,6 +1,8 @@
 <div align="center">
     <h1>Hello, GitHub!</h1>
-    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white" alt="ML">
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ML">
+    <img src="https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black" alt="C/C++">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black" alt="Python">
     <table width="100%">
         <td align="left"><img src="image.png" alt="ntcd-Sparkle" width="200"/></td>
         <td align="right"><h3>Меня зовут ntcd_lol, я русский начинающий разработчик которому всего 13 лет.</h3></td>
