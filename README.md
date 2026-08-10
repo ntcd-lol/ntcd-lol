@@ -5,7 +5,10 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black" alt="Python">
     <table width="100%">
         <td align="left"><img src="image.png" alt="ntcd-Sparkle" width="200"/></td>
-        <td align="right"><h3>Меня зовут ntcd_lol, я русский начинающий разработчик которому всего 13 лет.</h3></td>
+        <td align="right"><h3><italic>"Тема иъежена, стара, как выражение про то что все НАПИСАНО до нас."</italic></h3>
+        <p>Меня зовут <strong>ntcd_lol</strong>, я русский начинающий разработчик которому всего 13 лет.</p>
+        <blackquote><p>Цитата дня: <strong>"Неизвестным значением является лишь то, что на свете твоё что-то придумал уже, но кто."+</strong></p></blackquote>
+        </td>
     </table>
 </div>
 
