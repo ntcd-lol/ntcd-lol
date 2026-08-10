@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black" alt="Python">
     <table width="100%">
         <td align="left"><img src="image.png" alt="ntcd-Sparkle" width="200"/></td>
-        <td align="right"><h3><italic>"Тема иъежена, стара, как выражение про то что все НАПИСАНО до нас."</italic></h3>
+        <td align="right"><h3><italic>"Тема изъезжена, стара, как выражение про то что все НАПИСАНО до нас."</italic></h3>
         <p>Меня зовут <strong>ntcd_lol</strong>, я русский начинающий разработчик которому всего 13 лет.</p>
         <blackquote><p>Цитата дня: <strong>"Слепок раньше мог сказать о том, тот человек или нет. Слепок сейчас - про всю жизнь, но не сможет доказать то, что это тот человек"</strong></p></blackquote>
         <p/>
