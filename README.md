@@ -5,9 +5,9 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=black" alt="Python">
     <table width="100%">
         <td align="left"><img src="image.png" alt="ntcd-Sparkle" width="200"/></td>
-        <td align="right"><h3><italic>"About space too many questions, but where are answers?"</italic></h3>
+        <td align="right"><h3><italic>"Свет в конце туннеля - просто зеркало."</italic></h3>
         <p>Меня зовут <strong>ntcd_lol</strong>, я русский начинающий разработчик которому всего 13 лет (2013 года).</p>
-        <blackquote><p>Цитата дня: <strong>"Умерев морально, воскреснуть возможно, а сгнив физически - никто не вспомнит."</strong></p></blackquote>
+        <blackquote><p>Цитата дня: <strong>"Цена смерти равна цены жизни, и неизвестно, на небесах хоть кто-то ли жив, но известно одно лишь нам, что за смертью может быть скорее всего, темнота."</strong></p></blackquote>
         <p/>
         </td>
     </table>
@@ -26,7 +26,7 @@
 
 ### В разработке
 
-+ N (nlang) - Гибкий язык программирования что смешивает лучшие черты характера Rust, C++ и Zig.
++ [N (nlang)](https://github.com/ntcd-lol/nlang) - Гибкий язык программирования что смешивает лучшие черты характера Rust, C++ и Zig.
 
 + SolverCore - Движок игр на C++, SDL3 и Vulkan.
 
